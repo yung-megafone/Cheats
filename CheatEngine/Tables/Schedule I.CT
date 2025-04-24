@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Money (Cash)"</Description>
+      <Color>00FF00</Color>
+      <VariableType>Float</VariableType>
+      <Address>21F2E3275D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Money (Bank)"</Description>
+      <Color>008000</Color>
+      <VariableType>Float</VariableType>
+      <Address>21E05249828</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"ATM Deposit Limit"</Description>
+      <Color>80FF80</Color>
+      <VariableType>Float</VariableType>
+      <Address>21CB8C61E00</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>randomvalue</Name>
+      <Address>21CA9090000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>speedhack_wantedspeed</Name>
+      <Address>21CA9090010</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+</CheatTable>
