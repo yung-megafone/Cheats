@@ -31,7 +31,7 @@ Welcome to the Cheat Engine repo! This repository contains various scripts, chea
 
 ## 📄 License
 
-[MIT](LICENSE) or your preferred license
+[MIT](LICENSE)
 
 ## 🤝 Contributions
 
